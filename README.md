@@ -1,4 +1,4 @@
-### National Center for Atmospheric Research Climate & Global Dynamics Seminar Series
+### National Center for Atmospheric Research – Climate & Global Dynamics Seminar Series
 
 Date: Tuesday, 27 April 2021
 
