@@ -8,6 +8,7 @@ For Zoom information, please contact Tracy Baker tbaker@ucar.edu
 
 For live stream information, visit the [CGD Seminar Webpage](www.cgd.ucar.edu/events/seminars )
 
+[Event Flyer](https://www.cgd.ucar.edu/events/seminars/2020-21/cgd-seminar-h-scannell.pdf)
 
 ***
 ### New insights into the spatiotemporal connectivity of marine heatwaves globally
@@ -19,4 +20,3 @@ In this presentation, I will show how Ocetrac leverages morphological image proc
  
 Understanding the spatiotemporal evolution of marine heatwaves and their tropical connection will ultimately guide the future development of forecasts to anticipate marine heatwave risk, as well as improve preparedness in ecosystem management. A brief discussion of machine learning applications will be provided in context of marine heatwave prediction.
 
-[Flyer](https://www.cgd.ucar.edu/events/seminars/2020-21/cgd-seminar-h-scannell.pdf)
