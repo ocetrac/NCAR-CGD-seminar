@@ -8,6 +8,7 @@ For Zoom information, please contact Tracy Baker tbaker@ucar.edu
 
 For live stream information, visit the [CGD Seminar Webpage](www.cgd.ucar.edu/events/seminars )
 
+[Recording](https://youtu.be/5iMddxJWRUY?t=276)
 [Event Flyer](https://www.cgd.ucar.edu/events/seminars/2020-21/cgd-seminar-h-scannell.pdf)
 
 ***
