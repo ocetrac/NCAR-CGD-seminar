@@ -1,11 +1,11 @@
-### National Center for Atmospheric Research – Climate & Global Dynamics Seminar Series
+#### National Center for Atmospheric Research – Climate & Global Dynamics Seminar Series
 
 Tuesday, 27 April 2021, 11am – 12pm MT
 
 [Event Flyer](https://www.cgd.ucar.edu/events/seminars/2020-21/cgd-seminar-h-scannell.pdf)
 
 ***
-### New insights into the spatiotemporal connectivity of marine heatwaves globally
+## New insights into the spatiotemporal connectivity of marine heatwaves globally
 #### Hillary Scannell, Columbia University, scannell@ldeo.columbia.edu
 
 Dangerous hot-water events, called marine heatwaves, cause prolonged periods of thermal stress in the marine environment that can lead to widespread coral bleaching, harmful algal blooms, unproductive fisheries, and even economic loss. Anticipating the evolution of marine heatwaves remains a challenge owing to the complex spatiotemporal evolution of these events and the lack of tools available to identify and track marine heatwaves as they move throughout the ocean. This problem is not only limited to temperature extremes, but it is also applicable to a broad range of environmental properties including ocean hypoxia and increased acidity. To overcome these challenges, we have developed a new open-source python package called Ocetrac to label and track unique geospatial anomalies.
