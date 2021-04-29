@@ -1,12 +1,8 @@
 ### National Center for Atmospheric Research – Climate & Global Dynamics Seminar Series
 
-Date: Tuesday, 27 April 2021
-
-Time: 11am – 12pm
+Tuesday, 27 April 2021, 11am – 12pm MT
 
 [Event Flyer](https://www.cgd.ucar.edu/events/seminars/2020-21/cgd-seminar-h-scannell.pdf)
-
-[![Recording](https://github.com/ocetrac/NCAR-CGD-seminar/blob/main/youtube.png)](https://youtu.be/5iMddxJWRUY?t=276 "Recording")
 
 ***
 ### New insights into the spatiotemporal connectivity of marine heatwaves globally
@@ -18,3 +14,4 @@ In this presentation, I will show how Ocetrac leverages morphological image proc
  
 Understanding the spatiotemporal evolution of marine heatwaves and their tropical connection will ultimately guide the future development of forecasts to anticipate marine heatwave risk, as well as improve preparedness in ecosystem management. A brief discussion of machine learning applications will be provided in context of marine heatwave prediction.
 
+[![Recording](https://github.com/ocetrac/NCAR-CGD-seminar/blob/main/youtube.png)](https://youtu.be/5iMddxJWRUY?t=276 "Recording")
