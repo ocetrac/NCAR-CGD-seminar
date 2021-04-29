@@ -4,13 +4,9 @@ Date: Tuesday, 27 April 2021
 
 Time: 11am – 12pm
 
-For Zoom information, please contact Tracy Baker tbaker@ucar.edu
-
-For live stream information, visit the [CGD Seminar Webpage](www.cgd.ucar.edu/events/seminars )
-
-
-
 [Event Flyer](https://www.cgd.ucar.edu/events/seminars/2020-21/cgd-seminar-h-scannell.pdf)
+
+[![Recording](https://github.com/ocetrac/NCAR-CGD-seminar/blob/main/youtube.png)](https://youtu.be/5iMddxJWRUY?t=276 "Recording")
 
 ***
 ### New insights into the spatiotemporal connectivity of marine heatwaves globally
